@@ -39,4 +39,4 @@ It is a beginner-friendly example showing the core concepts of evolutionary algo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/genetic-algorithm.git
+   git clone https://github.com/NARASIMHA045/genetic-algorithm.git
